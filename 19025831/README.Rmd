@@ -4,7 +4,7 @@ output: github_document
 date: "2022-12-14"
 ---
 
-### The final projects PDF can be viewed [HERE](https://github.com/TianCater/FinMetrics871_Project) in the repo above.
+### The final project PDF can be viewed [HERE](https://github.com/TianCater/ATS_BVAR_Project_19025831/blob/main/19025831/19025831.pdf) in the repo above.
 
 # Purpose
 
